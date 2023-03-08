@@ -23,4 +23,20 @@ Check Screenshots:
 ![Screenshot_Eclipse_20230308084111](https://user-images.githubusercontent.com/119154806/223612718-aaf1302a-e506-4df8-a34d-a70f681511aa.png)
 ![Screenshot_Eclipse_20230308084125](https://user-images.githubusercontent.com/119154806/223612721-65437269-1eb4-48a5-88f6-84c9cbd4f86d.png)
 
+Code:
+I've uploaded the JAVA file of this program named "MyFrame.java", simply use that file or open that file and copy paste the code.
 
+Details about code:
+* The code is self explanatory.
+* Contact me on Telegram @SOUL_AYU if you need any help.
+
+Issues(v0.1):
+* Sometimes program miss to use Symbols or Numbers in 8 Digit pass (Solution: Generate pass again).
+* Some passwords may get rejected in some websites as they starts with symbols or numbers.
+
+Future Plans:
+* I'll add a password saving function in this program so that you'll never forget your pass (Passwords will be stored locally in your hard drive).
+
+Conclusion:
+You can download the .jar file from release section and import it in Eclipse or IntelliJ IDE.
+Thank You for reading till end, please consider checking my other repos too.
