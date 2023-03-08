@@ -3,7 +3,7 @@ This program can generate very random passwords which are very secure to use.
 
 Password Generator:
 This is a GUI based random password generator program. This program can generate 8 and 16 Digit passwords with Alpabets (Lower and Upper case), Symbols and Numbers so, it will be almost imposible to hack a guy who's usng this password.
-The passwords are generated using a very random algorithm and its impossible to guess it or get the same password again using the code. The program using Random class and only the person who created the random class can guess it an that's also almost equal to impossible.
+The passwords are generated using a very random algorithm and its impossible to guess it or get the same password again using the code. The program uses Random class and only the person who created the random class can guess it an that's also almost equal to impossible.
 
 Feature(v0.1):
 * Can generate 8 and 16 digit passwords.
@@ -31,7 +31,7 @@ Details about code:
 * Contact me on Telegram @SOUL_AYU if you need any help.
 
 Issues(v0.1):
-* Sometimes program miss to use Symbols or Numbers in 8 Digit pass (Solution: Generate pass again).
+* Sometimes program misses to use Symbols or Numbers in 8 Digit pass (Solution: Generate pass again).
 * Some passwords may get rejected in some websites as they starts with symbols or numbers.
 
 Future Plans:
