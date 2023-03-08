@@ -35,7 +35,7 @@ Issues(v0.1):
 * Some passwords may get rejected in some websites as they starts with symbols or numbers.
 
 Future Plans:
-* I'll add a password saving function in this program so that you'll never forget your pass (Passwords will be stored locally in your hard drive).
+* I'll add a password saving function in this program so that you'll never forget your pass (Passwords will be stored locally in your hard disk).
 
 Conclusion:
 You can download the .jar file from release section and import it in Eclipse or IntelliJ IDE. Exe file is also available in the release section.
